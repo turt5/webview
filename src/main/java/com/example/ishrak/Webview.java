@@ -17,6 +17,6 @@ public class Webview implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         WebEngine webEngine = webpage.getEngine();
-        webEngine.load("https://xhwebsite5.com/");
+        webEngine.load("https://www.google.com/maps");
     }
 }
