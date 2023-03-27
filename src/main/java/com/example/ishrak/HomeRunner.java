@@ -13,6 +13,5 @@ public class HomeRunner extends Application {
         Scene scene=new Scene(root);
         primaryStage.setScene(scene);
         primaryStage.show();
-        primaryStage.setTitle("xHamster | Porn videos");
     }
 }
